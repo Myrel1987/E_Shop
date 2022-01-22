@@ -1,0 +1,18 @@
+body {
+  font-family: "Open Sans Condensed";
+  padding: 20px 40px;
+  background: radial-gradient(
+    circle,
+    rgb(214, 214, 206) 0%,
+    rgb(184, 210, 243) 100%
+  );
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+* {
+  box-sizing: border-box;
+}

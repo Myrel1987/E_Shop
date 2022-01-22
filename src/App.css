@@ -3,7 +3,7 @@ body {
   padding: 20px 40px;
   background: radial-gradient(
     circle,
-    rgb(214, 214, 206) 0%,
+    rgb(214, 212, 206) 0%,
     rgb(184, 210, 243) 100%
   );
 }
